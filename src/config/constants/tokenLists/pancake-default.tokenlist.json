@@ -1,0 +1,174 @@
+{
+    "name": "pancakeswap",
+    "timestamp": "2020-08-25T15:41:29.665Z",
+    "version": {
+      "major": 1,
+      "minor": 3,
+      "patch": 1
+    },
+    "tags": {},
+    "logoURI": "/bsc/images/coins/wbnb.png",
+    "keywords": ["pancake", "default"],
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0x715d400f88c167884bbcc41c5fea407ed4d2f8a0",
+        "name": "Axie Infinity",
+        "symbol": "AXS",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x715D400F88C167884bbCc41C5FeA407ed4D2f8A0/logo.png"
+      },
+      {
+        "name": "My Neighbor Alice",
+        "address": "0xac51066d7bec65dc4589368da368b212745d63e8",
+        "symbol": "ALICE",
+        "decimals": 6,
+        "chainId": 56,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xAC51066d7bEC65Dc4589368da368b212745d63E8/logo.png"
+      },
+      {
+        "name": "Mines of Dalarnia",
+        "address": "0x23ce9e926048273ef83be0a3a8ba9cb6d45cd978",
+        "symbol": "DAR",
+        "decimals": 6,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/19837/small/dar.png"
+      },
+      {
+        "name": "Alien Worlds",
+        "address": "0x2222227e22102fe3322098e4cbfe18cfebd57c95",
+        "symbol": "TLM",
+        "decimals": 4,
+        "chainId": 56,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x2222227E22102Fe3322098e4CBfE18cFebD57c95/logo.png"
+      },
+      {
+        "name": "Monsta Infinite",
+        "address": "0x9573c88aE3e37508f87649f87c4dd5373C9F31e0",
+        "symbol": "MONI",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x9573c88aE3e37508f87649f87c4dd5373C9F31e0/logo.png"
+      },
+      {
+        "name": "Polychain Monsters",
+        "address": "0x1796ae0b0fa4862485106a0de9b654eFE301D0b2",
+        "symbol": "PMON",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x1796ae0b0fa4862485106a0de9b654eFE301D0b2/logo.png"
+      },
+      {
+        "name": "Kryptomon Monsters",
+        "address": "0xc732b6586a93b6b7cf5fed3470808bc74998224d",
+        "symbol": "KMON",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xc732B6586A93b6B7CF5FeD3470808Bc74998224D/logo.png"
+      },
+      {
+        "chainId": 56,
+        "address": "0x08ba0619b1e7a582e0bce5bbe9843322c954c340",
+        "name": "Binamon",
+        "symbol": "BMON",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x08ba0619b1e7A582E0BCe5BBE9843322C954C340/logo.png"
+      },
+      {
+        "name": "Crypto Blades",
+        "address": "0x154a9f9cbd3449ad22fdae23044319d6ef2a1fab",
+        "symbol": "SKILL",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x154A9F9cbd3449AD22FDaE23044319D6eF2a1Fab/logo.png"
+      },
+      {
+        "name": "Faraland",
+        "address": "0xF4Ed363144981D3A65f42e7D0DC54FF9EEf559A1",
+        "symbol": "FARA",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xF4Ed363144981D3A65f42e7D0DC54FF9EEf559A1/logo.png"
+      },
+      {
+        "name": "FortCake",
+        "address": "0x2f477a472f4657f7917126a663b5affe94d5a2b6",
+        "symbol": "FORTCAKE",
+        "decimals": 18,
+        "chainId": 56
+      },
+      {
+        "name": "Splintershards",
+        "address": "0x1633b7157e7638c4d6593436111bf125ee74703f",
+        "symbol": "SPS",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11035.png"
+      },
+      {
+        "name": "Bomb Crypto",
+        "address": "0x00e1656e45f18ec6747f5a8496fd39b50b38396d",
+        "symbol": "BCOIN",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://bscscan.com/token/images/bombcrypto_32.png"
+      },
+      {
+        "name": "Mydefipet",
+        "address": "0xfb62ae373aca027177d1c18ee0862817f9080d08",
+        "symbol": "DPET",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9665.png"
+      },
+      {
+        "name": "My Master War",
+        "address": "0xf3147987a00d35eecc10c731269003ca093740ca",
+        "symbol": "MAT",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11945.png"
+      },
+      {
+        "name": "Kawaii Islands",
+        "address": "0x257a8d1e03d17b8535a182301f15290f11674b53",
+        "symbol": "KWT",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12313.png"
+      },
+      {
+        "chainId": 56,
+        "address": "0x6289812163af9421e566b3d74774074fac2a0441",
+        "name": "Crusaders of Crypto",
+        "symbol": "CRUSADER",
+        "decimals": 9,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10976.png"
+      },
+      {
+        "chainId": 56,
+        "address": "0x24d787e9b88cb62d74e961c1c1d78e4ee47618e5",
+        "name": "BinaPet",
+        "symbol": "BPET",
+        "decimals": 18,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11263.png"
+      },
+      {
+        "name": "WBNB Token",
+        "symbol": "WBNB",
+        "address": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
+        "decimals": 18,
+        "chainId": 97,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7192.png"
+      },  
+      {
+        "name": "BUSD Token",
+        "address": "0x615446C0Fd5eA8A5FD7fb763f3FC2C58774474F3",
+        "symbol": "BUSD",
+        "decimals": 18,
+        "chainId": 97,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png"
+      }
+    ]
+  }
+  
